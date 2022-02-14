@@ -36,10 +36,7 @@ fcitx5的自定义皮肤，仅在fcitx5-rime测试过。
 
 ![fcitx5荧光绿透明版皮肤](images/1607338718.png)
 
-#- Nord-Dark
-#- Nord-Light
-#- Gruvbox-Dark
-#- Gruvbox-Light
+
 ## 使用步骤
 
 将整个项目clone到本地：
