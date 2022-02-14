@@ -7,7 +7,7 @@ fcitx5的自定义皮肤，仅在fcitx5-rime测试过。
 ### spring/春日绿
 示例图：
 
-![fcitx5春日绿皮肤](https://gitee.com/fusang0316/fcitx5-themes/images/1606626556.png "春日绿")
+![fcitx5春日绿皮肤](images/1606626556.png "春日绿")
 
 ### summer/夏日红
 示例图：
