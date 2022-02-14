@@ -42,7 +42,7 @@ fcitx5的自定义皮肤，仅在fcitx5-rime测试过。
 将整个项目clone到本地：
 
 ```console
-git clone https://github.com/thep0y/fcitx5-themes.git
+git clone https://gitee.com/fusang0316/fcitx5-themes.git
 ```
 将想要使用的皮肤复制到该放的位置，以`spring`为例(下同)：
 ```console
